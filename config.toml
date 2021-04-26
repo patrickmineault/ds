@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://patrickmineault.github.io/ds/"
 languageCode = "en-us"
 title = "Data science portfolio"
 theme = "researcher"
